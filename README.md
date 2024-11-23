@@ -4,4 +4,5 @@
 <br/>
 <br/>
 
-> `2024.11.17` &nbsp; [네이버 로그인](https://dev-jiyoung-oh.github.io/js-homework/mission01/naver_login)
+`2024.11.17` &nbsp; [네이버 로그인](https://dev-jiyoung-oh.github.io/js-homework/mission01/naver_login)  
+`2024.11.24` &nbsp; [Poster UI](https://dev-jiyoung-oh.github.io/js-homework/mission02/poster)
